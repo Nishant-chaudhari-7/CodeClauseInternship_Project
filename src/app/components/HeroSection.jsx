@@ -50,7 +50,11 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
+<<<<<<< HEAD
               href="https://drive.google.com/file/d/15nehiqbYisR5u8XePzNTcUQSdOHQ8WXL/view?usp=sharing"
+=======
+              href="https://drive.google.com/file/d/1lPBrgKrguzrIiOewXpRFkVeg5pm1ZsMv/view?usp=drive_link"
+>>>>>>> 5fd015b1cbe5dcdbe01dd9e0541811b05b7a0821
               download="My-CV"
               target="_blank"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
