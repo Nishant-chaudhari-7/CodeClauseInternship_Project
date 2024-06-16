@@ -19,7 +19,7 @@ const HeroSection = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               Hello, I&apos;m{" "}
             </span>
-            <br></br>
+            <br />
             <TypeAnimation
               sequence={[
                 "Nishant",
@@ -38,7 +38,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Developed and deployed AI-driven full stack applications using
-            modern frameworks and technologies. And also Currently learning
+            modern frameworks and technologies. Currently learning
             Generative AI and data analytics to enhance my skills in innovative
             solution creation and data-driven decision-making.
           </p>
@@ -50,7 +50,6 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-
               href="https://drive.google.com/file/d/1lPBrgKrguzrIiOewXpRFkVeg5pm1ZsMv/view?usp=drive_link"
               download="My-CV"
               target="_blank"
